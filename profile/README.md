@@ -12,6 +12,10 @@ The purpose of this organization is to bring together developers who are passion
 - **Test your changes**: Before you submit a pull request, please make sure to test your changes thoroughly. This will help to ensure that your changes do not introduce any new bugs.
 - **Be patient**: It may take some time for your pull request to be reviewed and merged. Please be patient and respectful of the time of the reviewers.
 
+
+# LET'S CODE TOGETHER🧭
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+
 <!--
 
 **Here are some ideas to get you started:**
