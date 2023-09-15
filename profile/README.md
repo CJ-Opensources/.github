@@ -7,10 +7,10 @@ The purpose of this organization is to bring together developers who are passion
 
 # CONTRIBUTION GUIDLINES ✔
 
-- Open an issue before starting work :  If you are planning to work on a new feature or fix a bug, please open an issue first to discuss your plans with the team. This will help to avoid duplicating work and ensure that your changes are aligned with the project's goals.
-- Write clear and concise commit messages: When you submit a pull request, please write clear and concise commit messages that describe your changes. This will help the team to understand your changes and to review them more easily.
-- Test your changes: Before you submit a pull request, please make sure to test your changes thoroughly. This will help to ensure that your changes do not introduce any new bugs.
-- Be patient: It may take some time for your pull request to be reviewed and merged. Please be patient and respectful of the time of the reviewers.
+- **Open an issue before starting work** :  If you are planning to work on a new feature or fix a bug, please open an issue first to discuss your plans with the team. This will help to avoid duplicating work and ensure that your changes are aligned with the project's goals.
+- **Write clear and concise commit messages**: When you submit a pull request, please write clear and concise commit messages that describe your changes. This will help the team to understand your changes and to review them more easily.
+- **Test your changes**: Before you submit a pull request, please make sure to test your changes thoroughly. This will help to ensure that your changes do not introduce any new bugs.
+- **Be patient**: It may take some time for your pull request to be reviewed and merged. Please be patient and respectful of the time of the reviewers.
 
 <!--
 
